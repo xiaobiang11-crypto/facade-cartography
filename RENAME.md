@@ -6,7 +6,7 @@
 ## Start here
 - **Top WWR:** ![contact_wwr_top](figures/contact_wwr_top.png)
 - **Priority (High WWR + Low Shading):**  
-  ![priority](figures/contact_priority_wwrHigh_shadeLow_clean.png)
+  ![priority](figures/wwr_priority_.png)
 
 ## Figures
 See `/figures` for:
