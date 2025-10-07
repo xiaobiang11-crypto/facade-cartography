@@ -4,9 +4,9 @@
 **Why:** Quickly flag façades with **high WWR & low shading** (potential energy/glare risk).
 
 ## Start here
-- **Top WWR:** ![contact_wwr_top](figures/contact_wwr_top.png)
+- **Top WWR:** ![contact_wwr_top](tables/contact_wwr_top.png)
 - **Priority (High WWR + Low Shading):**  
-  ![priority](figures/wwr_priority_.png)
+  ![priority](tables/contact_priority_wwrHigh_shadeLow.png)
 
 ## Figures
 See `/figures` for:
