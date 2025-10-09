@@ -30,3 +30,9 @@ Masks → morphology & grid blocks → metrics (WWR, regularity, shading index) 
 Demo on the CMP Facade dataset (respect its license).  
 Unless noted otherwise: **figures/tables © You, CC BY 4.0**.  
 (If code is added later: MIT for code is typical.)
+### Optional: Full pipeline with SAM
+```bash
+# CPU 示例（或到 PyTorch 官网按你的 CUDA 版本安装）
+pip install torch torchvision
+pip install opencv-python
+pip install "git+https://github.com/facebookresearch/segment-anything.git"
